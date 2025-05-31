@@ -1,0 +1,43 @@
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me jokes
+Bot: Why don't programmers like nature? It has too many bugs.
+You: tell me the time 
+Bot: Sorry, I didn't understand that.
+You: you are good 
+Bot: Sorry, I didn't understand that.
+You: bye
+Bot: Goodbye! Have a great day!
+You: help
+Bot: I can chat with you, tell jokes, give tips, and respond to basic queries! 🙂
+You: hello am I audible
+Bot: Hello! How can I help you today? 🙂
+You: tell me a joke
+Bot: Why don't programmers like nature? It has too many bugs. 🙂
+You: what is the time right now
+Bot: Sorry, I couldn't find any information on that. 🤔
+You: who is Albert
+Bot: Sorry, I couldn't find any information on that. 🤔
+You: have a nice day now bye
+Bot: Today's date is Saturday, May 31, 2025 📅
+You: help
+Bot: You can ask me about the time, date, or who someone is. Just type your question!
+You: what is time and date
+Bot: Date and time notation around the world varies.
+An approach to harmonize the different notations is the ISO 8601 standard. 🤓
+You: what is time and date in india ?
+Bot: Sorry, I couldn't find any information on that. 🤔
+You: who is Albert Einstein
+Bot: Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. 🤓
+You: what is date of today
+Bot: Sorry, I couldn't find any information on that. 🤔
+You: have a nice day bye
+Bot: Today's date is Saturday, May 31, 2025 📅
+You: today's date
+Bot: Today's date is Saturday, May 31, 2025 📅
+You: what is time right now
+Bot: The current time is 21:48:44 ⏰
+You: bye have a nice
+Bot: Sorry, I don't understand that. Can you please rephrase? ðŸ¤”
+You: i am telling you goodbye
+Bot: Goodbye! Have a nice day! ðŸ‘‹ 👋

@@ -1,0 +1,29 @@
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey",
+    "hola",
+    "greetings"
+  ],
+  "goodbye": [
+    "bye",
+    "exit",
+    "quit",
+    "goodbye",
+    "see you"
+  ],
+  "thanks": [
+    "thank you",
+    "thanks",
+    "thx"
+  ],
+  "responses": {
+    "greeting": "Hello! How can I assist you today? 😊",
+    "goodbye": "Goodbye! Have a nice day! 👋",
+    "thanks": "You're welcome! 😊",
+    "default": "Sorry, I don't understand that. Can you please rephrase? 🤔",
+    "help": "You can ask me about the time, date, or who someone is. Just type your question!"
+  }
+}
+

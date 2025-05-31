@@ -1,0 +1,5 @@
+pyttsx3
+speechrecognition
+wikipedia
+pyaudio ; platform_system == "Windows"
+tk
